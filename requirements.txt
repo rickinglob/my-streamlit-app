@@ -1,9 +1,13 @@
-numpy
-pandas
-pandas-ta
-pandas_market_calendars
-plotly
 streamlit
-ta
-ta-lib
 yfinance
+pandas
+plotly.graph_objects
+numpy
+smtplib
+time
+email.mime.text
+datetime
+ta.momentum (RSIIndicator, StochasticOscillator, ROCIndicator, TSIIndicator, KAMAIndicator)
+ta.trend (MACD, ADXIndicator, CCIIndicator)
+ta.volatility (BollingerBands, AverageTrueRange)
+ta.volume (MFIIndicator, OnBalanceVolumeIndicator)
