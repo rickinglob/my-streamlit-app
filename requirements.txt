@@ -7,7 +7,4 @@ smtplib
 time
 email.mime.text
 datetime
-ta.momentum (RSIIndicator, StochasticOscillator, ROCIndicator, TSIIndicator, KAMAIndicator)
-ta.trend (MACD, ADXIndicator, CCIIndicator)
-ta.volatility (BollingerBands, AverageTrueRange)
-ta.volume (MFIIndicator, OnBalanceVolumeIndicator)
+ta-lib
