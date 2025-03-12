@@ -7,4 +7,4 @@ smtplib
 time
 email.mime.text
 datetime
-ta-lib
+ta
